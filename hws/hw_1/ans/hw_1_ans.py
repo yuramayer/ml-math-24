@@ -5,6 +5,6 @@ def check_task(your_answer, right_answer):
     assert np.array_equal(your_answer, right_answer) 
 
 
-ans_1 = np.ndarray([40, 33,  1,  6, 20, 16])
+ans_1 = np.array([40, 33,  1,  6, 20, 16])
 
 
